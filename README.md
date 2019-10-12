@@ -1,0 +1,1 @@
+This project determines whether strings that given indexes of arraylists are equal or not.
